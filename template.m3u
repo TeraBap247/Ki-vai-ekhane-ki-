@@ -38,7 +38,7 @@ http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/363.ts
 
 #EXTINF:-1 tvg-id="127" tvg-name="Sony BBC Earth HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-bbc-earth-hd.png" group-title="Others Channel",SONY BBC EARTH HD VIP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1761373985:KeyName=prod_linear:Signature=3xjwllSt4hXiuxNfR81fAOtyeNLphWUhHUrEnECc7qxTu49lJAH1RDbfn-OOU9e4t1lFNUM5v1RqDntKbCzpAw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1761381037:KeyName=prod_linear:Signature=Q3HLeaem3nZ4j-9Np8pIXZUgw_OEsBtik9fU4-xLguTW1NaQE9TrOH8C36ddjz22f--7LTxo5wGRc87qy1DjDA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonybbc_earth_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Sony_Pal_logo_new.jpeg" group-title="Hindi Channel-(হিন্দি চ্যানেল)",Sony Kal

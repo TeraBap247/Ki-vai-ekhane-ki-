@@ -36,8 +36,10 @@ http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2570.ts
 #EXTINF:-1 tvg-id="151" tvg-name="ATN News" tvg-logo="https://otapp.store/uploads/tv_image/sm/atn-news.png" group-title="News Channel ",ATN News
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/363.ts
 
-#EXTINF:-1 tvg-id="127" tvg-name="Sony BBC Earth HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-bbc-earth-hd.png" group-title="Others Channel",Sony BBC Earth HD
-http://38.127.8.116/OPPLEX/play.php?id=381102|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="127" tvg-name="Sony BBC Earth HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-bbc-earth-hd.png" group-title="Others Channel",SONY BBC EARTH HD VIP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1761381037:KeyName=prod_linear:Signature=Q3HLeaem3nZ4j-9Np8pIXZUgw_OEsBtik9fU4-xLguTW1NaQE9TrOH8C36ddjz22f--7LTxo5wGRc87qy1DjDA"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sonybbc_earth_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Sony_Pal_logo_new.jpeg" group-title="Hindi Channel-(হিন্দি চ্যানেল)",Sony Kal
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/474.ts
@@ -52,7 +54,7 @@ http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/3175.ts
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/11.ts
 
 #EXTINF:-1 tvg-id="71" tvg-name="Sony Yay Hindi" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-yay-hindi.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Sony Yay Hindi
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2073.ts
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/224.ts
 
 #EXTINF:-1 tvg-id="89" tvg-name="PTV Sports" tvg-logo="https://otapp.store/uploads/tv_image/sm/ptv-sports.png" group-title="Sports-খেলা",PTV Sports
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/3008.ts
@@ -367,7 +369,7 @@ https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://cdn149.anystream.uk:8082/g1/tvchsuk03/playlist.m3u8
 
 #EXTINF:-1 tvg-id="184" tvg-name="Deepto TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/deepto-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",Deepto TV
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/1887.ts
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2593.ts
 
 #EXTINF:-1 tvg-id="180" tvg-name="Channel S BD" tvg-logo="https://otapp.store/uploads/tv_image/sm/channel-s-bd.png" group-title="BD Channel-(বাংলা চ্যানেল)",Channel S BD
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/5101.ts
@@ -386,9 +388,6 @@ http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2587.ts
 
 #EXTINF:-1 tvg-id="166" tvg-name="Ananda TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/ananda-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",Ananda TV
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9580.ts
-
-#EXTINF:-1 tvg-id="166" tvg-name="Ananda TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPD3Qo1CSwd9ZcA0b6xTS1I66pctDsOhGt3Uhhf_cQ00L_zf7T1M0MVVY&s=10" group-title="BD Channel-(বাংলা চ্যানেল)",Bangla TV
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9698.ts
 
 #EXTINF:-1 tvg-id="160" tvg-name="SA TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/sa-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",SA TV
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9697.ts
@@ -476,6 +475,9 @@ https://padmaonline.duckdns.org:8088/pcv/index.m3u8
 
 #EXTINF:-1 tvg-id="56" tvg-name="Sangeet Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/sangeet-bangla.png" group-title="Music Channel",Sangeet Bangla
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/3169.ts
+
+#EXTINF:-1 tvg-id="56" tvg-name="Sangeet Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFC4vYYaWH9WNKckiYk9t-tsAu1UysR-VqVXpI2Xe0xw&s=10" group-title="Music Channel",Dhoom Music
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/319.ts
 
 #EXTINF:-1 tvg-id="55" tvg-name="ZOOM" tvg-logo="https://otapp.store/uploads/tv_image/sm/zoom.png" group-title="Music Channel",ZOOM
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/26.ts
@@ -724,7 +726,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/superhungama/master.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/animax/master.m3u8
 
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="213" tvg-name="Sony Yay Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-yay-bangla.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Sony Yay Bangla
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9457.ts
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2073.ts
 
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="181" tvg-name="Disney Hindi" tvg-logo="https://otapp.store/uploads/tv_image/sm/disney-hindi.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Disney Hindi
 http://38.127.8.116/OPPLEX/play.php?id=167551|User-Agent=RANAPK
