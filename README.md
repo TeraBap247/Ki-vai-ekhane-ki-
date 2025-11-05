@@ -1,4 +1,4 @@
 # link 👇
 ```
-https://shorturl.at/FmVW3
+https://rb.gy/rjiylf
 ```
