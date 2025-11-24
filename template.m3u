@@ -775,3 +775,60 @@ http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/3013.ts
 
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="91" tvg-name="TNT  Sport 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/tnt-sport-1.png" group-title="Sports-খেলা",TNT  Sport 1
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/3011.ts
+
+#EXTM3U-LIVE-AUTO-START
+#EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/17f79b359bdb2098e2a3a95fd425795b.png" group-title="FOOTBALL LIVE EVENT",EPL 1 LIVE
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/1676.m3u8
+#EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/17f79b359bdb2098e2a3a95fd425795b.png" group-title="FOOTBALL LIVE EVENT",EPL 2 LIVE
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/1677.m3u8
+#EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/17f79b359bdb2098e2a3a95fd425795b.png" group-title="FOOTBALL LIVE EVENT",EPL 3 LIVE
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/458.m3u8
+#EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/17f79b359bdb2098e2a3a95fd425795b.png" group-title="FOOTBALL LIVE EVENT",EPL 4 LIVE
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/5625.m3u8
+#EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/17f79b359bdb2098e2a3a95fd425795b.png" group-title="FOOTBALL LIVE EVENT",EPL 5 LIVE
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9524.m3u8
+#EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/ba55034a927276773c07bfa9cbd1ccd4.png" group-title="FOOTBALL LIVE EVENT",La liga Live 1
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/3564.m3u8
+#EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/ba55034a927276773c07bfa9cbd1ccd4.png" group-title="FOOTBALL LIVE EVENT",La liga Live 2
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/1674.m3u8
+#EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/7d02b00dd613d22621b1b6052346ede2.png" group-title="FOOTBALL LIVE EVENT",Bundesliga Live 1
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9370.m3u8
+#EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/7d02b00dd613d22621b1b6052346ede2.png" group-title="FOOTBALL LIVE EVENT",Bundesliga Live 2
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9476.m3u8
+#EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/7d02b00dd613d22621b1b6052346ede2.png" group-title="FOOTBALL LIVE EVENT",Bundesliga Live 3
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2233.m3u8
+#EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/4f38ddc5d0c16f10211ddd8ccb76db51.png" group-title="CRICKET LIVE EVENT",INDIA vs S.AFRICA LIVE
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/5456.m3u8
+#EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/43e431d96f7cd8be1a13d15e0328f0c9.png" group-title="CRICKET LIVE EVENT",ASIA CUP RISING STARS
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2762.m3u8
+#EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/43e431d96f7cd8be1a13d15e0328f0c9.png" group-title="CRICKET LIVE EVENT",PAKISTAN T20i TRI SERIES LIVE
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/3595.m3u8
+#EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/4f38ddc5d0c16f10211ddd8ccb76db51.png" group-title="CRICKET LIVE EVENT",WBBL 2025
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/1678.m3u8
+#EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/7a9a3c1a860dafb7f63e5002a783f2f1.png" group-title="CRICKET LIVE EVENT",ABU DHABI T10 LIVE
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9477.m3u8
+#EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/4f38ddc5d0c16f10211ddd8ccb76db51.png" group-title="CRICKET LIVE EVENT",AUSTRALIA vs ENGLAND LIVE
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9348.m3u8
+#EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/7a9a3c1a860dafb7f63e5002a783f2f1.png" group-title="CRICKET LIVE EVENT",BANGLADESH vs IRELAND LIVE
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/459.m3u8
+#EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/4f38ddc5d0c16f10211ddd8ccb76db51.png" group-title="CRICKET LIVE EVENT",NEWZEALAND vs W.INDIES live
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/1785.m3u8
+#EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/a6bd435242f10d79653eadae8ffb21d8.png" group-title="CRICKET LIVE EVENT",BDIX | T Sports HD 1
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/4154.m3u8
+#EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/a6bd435242f10d79653eadae8ffb21d8.png" group-title="CRICKET LIVE EVENT",BDIX | T Sports HD 2
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9542.m3u8
+#EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/2de52b30c178a65972e2d21272f9de56.png" group-title="FOOTBALL LIVE EVENT",Ligue 1
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/353.m3u8
+#EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/c8a53db85d18566503cb40b440a40ba7.png" group-title="FOOTBALL LIVE EVENT",Serie A Live 1
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9515.m3u8
+#EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/c8a53db85d18566503cb40b440a40ba7.png" group-title="FOOTBALL LIVE EVENT",Serie A Live 2
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/354.m3u8
+#EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/c6e4cebf69bcd29cbb122af3ca90d874.png" group-title="FOOTBALL LIVE EVENT",UEFA CHAMPIONS LEAGUE 1
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/64.m3u8
+#EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/c6e4cebf69bcd29cbb122af3ca90d874.png" group-title="FOOTBALL LIVE EVENT",UEFA CHAMPIONS LEAGUE 2
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9371.m3u8
+#EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/c6e4cebf69bcd29cbb122af3ca90d874.png" group-title="FOOTBALL LIVE EVENT",UEFA CHAMPIONS LEAGUE 3
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2514.m3u8
+#EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/c6e4cebf69bcd29cbb122af3ca90d874.png" group-title="FOOTBALL LIVE EVENT",UEFA CHAMPIONS LEAGUE 4
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9473.m3u8
+#EXTM3U-LIVE-AUTO-END
