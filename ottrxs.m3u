@@ -4,16 +4,16 @@
 https://raw.githubusercontent.com/TeraBap247/Personal/refs/heads/main/teamrxs.ts
 
 #EXTINF:-1 tvg-id="156" tvg-name="Channel 9" tvg-logo="https://otapp.store/uploads/tv_image/sm/channel-9.png" group-title="BD Channel-(বাংলা চ্যানেল)",Channel 9
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9579.ts
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/83.m3u8
 
 #EXTINF:-1 tvg-id="155" tvg-name="Gazi TV HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/gazi-tv-hd.png" group-title="BD Channel-(বাংলা চ্যানেল)",Gazi TV HD
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9590.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/1686.m3u8
 
 #EXTINF:-1 tvg-id="146" tvg-name="ATN Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/atn-bangla.png" group-title="BD Channel-(বাংলা চ্যানেল)",ATN Bangla
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2590.m3u8
 
 #EXTINF:-1 tvg-id="143" tvg-name="Channel I" tvg-logo="https://otapp.store/uploads/tv_image/sm/channel-i.png" group-title="BD Channel-(বাংলা চ্যানেল)",Channel I
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/3006.ts
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/83.m3u8
 
 #EXTINF:-1 tvg-id="141" tvg-name="BTV CTG" tvg-logo="https://otapp.store/uploads/tv_image/sm/btv.png" group-title="BD Channel-(বাংলা চ্যানেল)",BTV CTG
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/256.m3u8
@@ -42,13 +42,13 @@ http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/363.m3u8
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonybbc_earth_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Sony_Pal_logo_new.jpeg" group-title="Hindi Channel-(হিন্দি চ্যানেল)",Sony Kal
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9440.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/474.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Sony aath hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Sony aath HD
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/3157.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-name="Sony SAB HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-sab.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Sony SAB HD
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/3175.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/138.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Zee Bangla SD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-bangla-hd.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Zee Bangla SD
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/11.ts
@@ -60,10 +60,10 @@ http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/224.m3u8
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/3008.m3u8
 
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-name="Sony MAX HD" tvg-language="Hindi" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movie Channel",Sony MAX HD
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9440.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2800.m3u8
 
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-language="English" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movie Channel" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png",Sony PIX HD
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2512.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/128.m3u8
 
 #EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-name="Sony Sports Ten 1 HD" tvg-language="English" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports-খেলা" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png",Sony Sports Ten 1 HD
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9478.m3u8
@@ -81,7 +81,7 @@ http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9478.m3u8
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9481.ts
 
 #EXTINF:-1 channel-id="samsung-USBA3000158L" tvg-id="USBA3000158L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000158L_20241112T000708SQUARE.png" group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="3610",Nick Pluto TV
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/3964.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/149.m3u8
 
 #EXTINF:-1 tvg-id="DisneyXDMarathon" tvg-name="Disney XD Marathon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/2009_Disney_XD_alternate_logo.svg/250px-2009_Disney_XD_alternate_logo.svg.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Disney XD Marathon
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/5034.m3u8
@@ -134,7 +134,7 @@ http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/207.m3u8
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/1521.ts
 
 #EXTINF:-1 tvg-id="459" tvg-logo="http://b1g.fun/logos2/net_geo_hindihd.jpg" group-title="Others Channel",NAT GEO BANGLA
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/3173.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/163.m3u8
 
 #EXTINF:-1 tvg-id="460" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb8cIY-Y6n-NYPvEiUMJ0-pVRdhkVLoErVaEQkBRm2n_3f_WIGJziUb-ep&s=10" group-title="Movie Channel",HBO
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/56.m3u8
@@ -236,7 +236,7 @@ https://fifabd.site/OPLLX4/play.php?id=233078|User-Agent=RANAPK
 https://fifabd.site/OPLLX4/play.php?id=233080|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="starmoviesselecthd.in" tvg-name="STAR MOVIES SELECT HD" group-title="Movie Channel" tvg-logo="https://static.epg.best/in/StarMoviesSelect.in.png",STAR MOVIES SELECT HD
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2580.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/94.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://appv10static.jaagobd.com/media/channel_logos/songsodtv.jpg" group-title="BD Channel-(বাংলা চ্যানেল)",Songsad TV
 #EXTVLCOPT:http-referrer=https://tvz.jagobd.com/
@@ -245,7 +245,7 @@ http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2580.m3u8
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/songsodtv-world.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI1IDExOjA1OjU5IEFNJmhhc2hfdmFsdWU9aFcrd0UvU0lHT1NEaWZIeUxVYUdwdz09JnZhbGlkbWludXRlcz00MA==
 
 #EXTINF:-1 tvg-id="177" tvg-name="Star Plus" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-plus.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Star Plus HD
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2579.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/123.m3u8
 
 #EXTINF:-1 tvg-id="181" tvg-name="Disney Hindi-2" tvg-logo="https://otapp.store/uploads/tv_image/sm/disney-hindi.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Disney Hindi 1
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/89.m3u8
@@ -298,7 +298,7 @@ http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/15.m3u8
 https://fifabd.site/OPLLX4/play.php?id=221258|User-Agent=RANAPK
 
 #EXTINF:-1 tvg-id="176" tvg-name="Zee Cinema HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-cinema-hd-veqq3heoalzv.png" group-title="Movie Channel",Zee Cinema HD
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/106.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/1.m3u8
 
 #EXTINF:-1 tvg-id="35" tvg-name="Colors Cineplex Bollywood" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-cineplex-bollywood.png" group-title="Movie Channel",Colors Cineplex Bollywood
 https://fifabd.site/OPLLX4/play.php?id=112983|User-Agent=RANAPK
@@ -352,7 +352,7 @@ http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/1887.m3u8
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/movieplus.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI1IDExOjE4OjE3IEFNJmhhc2hfdmFsdWU9b21PaHRYU2JvdmQ4Mms3LytSTjF4Zz09JnZhbGlkbWludXRlcz00MA==
 
 #EXTINF:-1 tvg-id="237" tvg-name="Magic Bangla Tv" tvg-logo="https://otapp.store/uploads/tv_image/sm/magic-bangla-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",Magic Bangla Tv
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9698.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/181.m3u8
 
 #EXTINF:-1 tvg-id="218" tvg-name="BTV World" tvg-logo="https://otapp.store/uploads/tv_image/sm/btv-world.png" group-title="BD Channel-(বাংলা চ্যানেল)",BTV World
 #EXTVLCOPT:http-referrer=https://tvz.jagobd.com/
@@ -367,19 +367,19 @@ https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI1IDExOjIwOjU4IEFNJmhhc2hfdmFsdWU9VkRORzVaejRlVnBEQzRYQlRpMzZqdz09JnZhbGlkbWludXRlcz00MA==
 
 #EXTINF:-1 tvg-id="193" tvg-name="S TV Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/s-tv-bangla.png" group-title="BD Channel-(বাংলা চ্যানেল)",S TV Bangla
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9698.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/118.m3u8
 
 #EXTINF:-1 tvg-id="184" tvg-name="Deepto TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/deepto-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",Deepto TV
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2593.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/3702.m3u8
 
 #EXTINF:-1 tvg-id="180" tvg-name="Channel S BD" tvg-logo="https://otapp.store/uploads/tv_image/sm/channel-s-bd.png" group-title="BD Channel-(বাংলা চ্যানেল)",Channel S BD
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/5101.m3u8
 
 #EXTINF:-1 tvg-id="173" tvg-name="RTV" tvg-logo="https://otapp.store/uploads/tv_image/sm/rtv.png" group-title="BD Channel-(বাংলা চ্যানেল)",RTV
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/3007.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/85.m3u8
 
 #EXTINF:-1 tvg-id="170" tvg-name="Movie Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/movie-bangla.png" group-title="BD Channel-(বাংলা চ্যানেল)",Movie Bangla
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/11.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9354.m3u8
 
 #EXTINF:-1 tvg-id="169" tvg-name="Ekhon TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/ekhon-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",Ekhon TV
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2588.m3u8
@@ -388,7 +388,7 @@ http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2588.m3u8
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2587.m3u8
 
 #EXTINF:-1 tvg-id="166" tvg-name="Ananda TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/ananda-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",Ananda TV
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9580.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/375.m3u8
 
 #EXTINF:-1 tvg-id="160" tvg-name="SA TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/sa-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",SA TV
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/3158.m3u8
@@ -430,13 +430,13 @@ http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/83.m3u8
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/171.m3u8
 
 #EXTINF:-1 tvg-id="139" tvg-name="BBC News" tvg-logo="https://otapp.store/uploads/tv_image/sm/bbc-news.png" group-title="News Channel ",BBC News
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/171.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/218.m3u8
 
 #EXTINF:-1 tvg-id="137" tvg-name="AL Jazeera" tvg-logo="https://otapp.store/uploads/tv_image/sm/al-jazeera.png" group-title="News Channel ",AL Jazeera
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/347.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9241.m3u8
 
 #EXTINF:-1 tvg-id="136" tvg-name="Zee 24 Ghanta" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-24-ghanta.png" group-title="News Channel ",Zee 24 Ghanta
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9706.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/1847.m3u8
 
 #EXTINF:-1 tvg-id="135" tvg-name="CNN" tvg-logo="https://otapp.store/uploads/tv_image/sm/cnn.png" group-title="News Channel ",CNN
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/1514.m3u8
@@ -469,13 +469,13 @@ https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDI1IDEwOjAxOjA4IEFNJmhhc2hfdmFsdWU9RTJkMTJYZ2tMOUNzQTNlZmZmQVZydz09JnZhbGlkbWludXRlcz00MA==
 
 #EXTINF:-1 tvg-id="239" tvg-name="Music Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/music-bangla.png" group-title="Music Channel",Music Bangla
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9509.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/181.m3u8
 
 #EXTINF:-1 tvg-id="234" tvg-name="Padma Cable Vision tv" tvg-logo="https://otapp.store/uploads/tv_image/sm/padma-cable-vision-tv.png" group-title="Music Channel",Padma Cable Vision tv
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2535.m3u8
 
 #EXTINF:-1 tvg-id="56" tvg-name="Sangeet Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/sangeet-bangla.png" group-title="Music Channel",Sangeet Bangla
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/3169.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/25.m3u8
 
 #EXTINF:-1 tvg-id="56" tvg-name="Sangeet Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFC4vYYaWH9WNKckiYk9t-tsAu1UysR-VqVXpI2Xe0xw&s=10" group-title="Music Channel",Dhoom Music
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9363.m3u8
@@ -484,16 +484,16 @@ http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9363.m3u8
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/26.m3u8
 
 #EXTINF:-1 tvg-id="52" tvg-name="Mastiii" tvg-logo="https://otapp.store/uploads/tv_image/sm/mastiii.png" group-title="Music Channel",Mastiii
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9381.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/27.m3u8
 
 #EXTINF:-1 tvg-id="50" tvg-name="9XM" tvg-logo="https://otapp.store/uploads/tv_image/sm/9xm.png" group-title="Music Channel",9XM
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9488.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/16.m3u8
 
 #EXTINF:-1 tvg-id="47" tvg-name="Music India" tvg-logo="https://otapp.store/uploads/tv_image/sm/music-india.png" group-title="Music Channel",Music India
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9586.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/28.m3u8
 
 #EXTINF:-1 tvg-id="46" tvg-name="B4U Music" tvg-logo="https://otapp.store/uploads/tv_image/sm/b4u-music.png" group-title="Music Channel",B4U Music
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/1508.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/72.m3u8
 
 #EXTINF:-1 tvg-id="129" tvg-name="Investigation Discovery" tvg-logo="https://otapp.store/uploads/tv_image/sm/investigation-discovery.png" group-title="Others Channel",Investigation Discovery
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/24.m3u8
@@ -507,13 +507,13 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/tlc_hd/playlist.m3u8
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9378.m3u8
 
 #EXTINF:-1 tvg-id="121" tvg-name="Discovery Channel Bengali" tvg-logo="https://otapp.store/uploads/tv_image/sm/discovery-channel-bengali.png" group-title="Others Channel",Discovery Channel Bengali
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/3170.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2835.m3u8
 
 #EXTINF:-1 tvg-id="120" tvg-name="Discovery Science" tvg-logo="https://otapp.store/uploads/tv_image/sm/discovery-science.png" group-title="Others Channel",Discovery Science
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/4952.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/23.m3u8
 
 #EXTINF:-1 tvg-id="119" tvg-name="Discovery Turbo" tvg-logo="https://otapp.store/uploads/tv_image/sm/discovery-turbo.png" group-title="Others Channel",Discovery Turbo
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/3170.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/184.m3u8
 
 #EXTINF:-1 tvg-id="118" tvg-name="Animal Planet HD World" tvg-logo="https://otapp.store/uploads/tv_image/sm/animal-planet-hd-world.png" group-title="Others Channel",Animal Planet HD World
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/18.m3u8
@@ -527,10 +527,10 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_sd/playlist.m3u8
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/140.ts
 
 #EXTINF:-1 tvg-id="186" tvg-name="Super Hungama TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/super-hungama-tv.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Super Hungama TV
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/211.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2681.m3u8
 
 #EXTINF:-1 tvg-id="75" tvg-name="Rongeen TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/rongeen-tv.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Rongeen TV
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/275.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/58.m3u8
 
 #EXTINF:-1 tvg-id="70" tvg-name="Cartoon Network" tvg-logo="https://otapp.store/uploads/tv_image/sm/cartoon-network-hindi.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Cartoon Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
@@ -548,58 +548,58 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8
 https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8
 
 #EXTINF:-1 tvg-id="217" tvg-name="TARA TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/tara-tv.png" group-title="Kolkata-(কলকতা চ্যানেল)",TARA TV
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2579.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2838.m3u8
 
 #EXTINF:-1 tvg-id="115" tvg-name="Bangla Plus" tvg-logo="https://otapp.store/uploads/tv_image/sm/bangla-plus.png" group-title="Kolkata-(কলকতা চ্যানেল)",Bangla Plus
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9698.m3u8
 
 #EXTINF:-1 tvg-id="114" tvg-name="Mon TV Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/mon-tv-bangla.png" group-title="Kolkata-(কলকতা চ্যানেল)",Mon TV Bangla
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9698.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/1769.m3u8
 
 #EXTINF:-1 tvg-id="113" tvg-name="Aamar Digital" tvg-logo="https://otapp.store/uploads/tv_image/sm/aamar-digital.png" group-title="Kolkata-(কলকতা চ্যানেল)",Aamar Digital
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/1727.m3u8
 
 #EXTINF:-1 tvg-id="112" tvg-name="Aamar Bangla Channel" tvg-logo="https://otapp.store/uploads/tv_image/sm/aamar-bangla-channel.png" group-title="Kolkata-(কলকতা চ্যানেল)",Aamar Bangla Channel
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9698.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9642.m3u8
 
 #EXTINF:-1 tvg-id="111" tvg-name="Enterr10 Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/enterr10-bangla.png" group-title="Kolkata-(কলকতা চ্যানেল)",Enterr10 Bangla
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2582.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/3873.m3u8
 
 #EXTINF:-1 tvg-id="211" tvg-name="Star Gold Romance" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-gold-romance.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",Star Gold Romance
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2586.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2117.m3u8
 
 #EXTINF:-1 tvg-id="188" tvg-name="Star Gold Select" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-gold-select.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",Star Gold Select
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/3174.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/92.m3u8
 
 #EXTINF:-1 tvg-id="179" tvg-name="Star Gold" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-gold.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",Star Gold
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2586.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/42.m3u8
 
 #EXTINF:-1 tvg-id="178" tvg-name="Star Bharat" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-bharat.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",Star Bharat
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9571.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/115.m3u8
 
 #EXTINF:-1 tvg-id="174" tvg-name="Hum TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/hum-tv.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",Hum TV
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/41.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/506.m3u8
 
 #EXTINF:-1 tvg-id="45" tvg-name="DANGAL 2" tvg-logo="https://otapp.store/uploads/tv_image/sm/dangal-2.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",DANGAL 2
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/383.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/286.m3u8
 
 #EXTINF:-1 tvg-id="43" tvg-name="Goldmines Movies" tvg-logo="https://otapp.store/uploads/tv_image/sm/goldmines-movies.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",Goldmines Movies
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9584.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/414.m3u8
 
 #EXTINF:-1 tvg-id="42" tvg-name="Goldmines Bollywood" tvg-logo="https://otapp.store/uploads/tv_image/sm/goldmines-bollywood.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",Goldmines Bollywood
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/289.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/13.m3u8
 
 #EXTINF:-1 tvg-id="41" tvg-name="Goldmines" tvg-logo="https://otapp.store/uploads/tv_image/sm/goldmines.link" group-title="Hindi Channel-(হিন্দি চ্যানেল)",Goldmines
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9583.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/12.m3u8
 
 #EXTINF:-1 tvg-id="37" tvg-name="MTV India" tvg-logo="https://otapp.store/uploads/tv_image/sm/mtv-india.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",MTV India
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9636.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9438.m3u8
 
 #EXTINF:-1 tvg-id="25" tvg-name="Sony MAX2" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-max2.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",Sony MAX2
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9440.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2800.m3u8
 
 #EXTINF:-1 tvg-id="23" tvg-name="And Pictures HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/and-pictures-hd.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",And Pictures HD
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2234.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/4.m3u8
 
 #EXTINF:-1 tvg-id="22" tvg-name="B4U Movies" tvg-logo="https://otapp.store/uploads/tv_image/sm/b4u-movies.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",B4U Movies
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9585.m3u8
@@ -614,13 +614,13 @@ http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/1506.m3u8
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9478.m3u8
 
 #EXTINF:-1 tvg-id="3" tvg-name="Dangal" tvg-logo="https://otapp.store/uploads/tv_image/sm/dangal.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",Dangal
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/383.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/5339.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="Colors HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-hd.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",Colors HD
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9907.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/3639.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-name="Zee TV HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-tv-hd.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",Zee TV HD
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2891.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9903.m3u8
 
 #EXTINF:-1 tvg-id="215" tvg-name="TYC Sports Argentina" tvg-logo="https://otapp.store/uploads/tv_image/sm/tyc-sports-argentina.png" group-title="Sports-খেলা",TYC Sports Argentina
 https://fifabd.site/OPLLX4/play.php?id=348162|User-Agent=RANAPK
@@ -656,7 +656,7 @@ http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2584.m3u8
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2580.m3u8
 
 #EXTINF:-1 tvg-id="187" tvg-name="Star Movies 2" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-movies.png" group-title="Movie Channel",Star Movies 2
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2321.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/236.m3u8
 
 #EXTINF:-1 tvg-id="165" tvg-name="Nexus TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/nexus-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",Nexus TV
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9699.m3u8
@@ -668,7 +668,7 @@ http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/119.m3u8
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/84.m3u8
 
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="187" tvg-name="Star Movies" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-movies.png" group-title="Movie Channel",Star Movies
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2321.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/236.m3u8
 
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="108" tvg-name="Colors Bangla Cinema" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla-cinema.png" group-title="Movie Channel",Colors Bangla Cinema
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/1515.m3u8
@@ -689,7 +689,7 @@ http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2598.m3u8
 https://srkapp.ncare.live/flixhls/flixsrktv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="171" tvg-name="Khushboo Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/khushboo-bangla.png" group-title="BD Channel-(বাংলা চ্যানেল)",Khushboo Bangla
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9582.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/14.m3u8
 
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="164" tvg-name="Bangla TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/bangla-tv.png" group-title="BD Channel-(বাংলা চ্যানেল)",Bangla TV
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9698.m3u8
@@ -704,30 +704,30 @@ http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/6.m3u8
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2833.m3u8
 
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="177" tvg-name="Star Plus" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-plus.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Star Plus
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2579.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/123.m3u8
 
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="110" tvg-name="Jalsha Movies HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/jalsha-movies-hd.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Jalsha Movies HD
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9560.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/3628.m3u8
 
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="109" tvg-name="Star Jalsha HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-jalsha-hd-uk.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Star Jalsha HD
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9650.ts
 
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="106" tvg-name="Sun Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/sun-bangla.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Sun Bangla
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9559.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/118.m3u8
 
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="102" tvg-name="Colors Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Colors Bangla
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2592.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9347.m3u8
 
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="236" tvg-name="Super Hungama" tvg-logo="https://otapp.store/uploads/tv_image/sm/super-hungama.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Super Hungama
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/211.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2681.m3u8
 
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="222" tvg-name="Animax" tvg-logo="https://otapp.store/uploads/tv_image/sm/animax.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Animax
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 13) ExoPlayerLib/2.14.1
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2691.m3u8
 
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="213" tvg-name="Sony Yay Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-yay-bangla.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Sony Yay Bangla
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9705.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9457.m3u8
 
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="181" tvg-name="Disney Hindi" tvg-logo="https://otapp.store/uploads/tv_image/sm/disney-hindi.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Disney Hindi
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/89.m3u8
@@ -736,19 +736,19 @@ http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/89.m3u8
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9365.m3u8
 
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="76" tvg-name="Duronto TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/duronto-tv.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Duronto TV
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2569.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/228.m3u8
 
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="74" tvg-name="Sonic Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Sonic Bangla
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9533.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/181.m3u8
 
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="73" tvg-name="Nick Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Nick Bangla
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9509.m3u8
 
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="69" tvg-name="Sonic Hindi" tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-hindi.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Sonic Hindi
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9586.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/4687.m3u8
 
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="64" tvg-name="Nick Hindi" tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-hindi.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Nick Hindi
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9586.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2609.m3u8
 
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="105" tvg-name="Rupashi Bangla" tvg-logo="https://otapp.store/uploads/tv_image/sm/rupashi-bangla.png" group-title="Kolkata-(কলকতা চ্যানেল)",Rupashi Bangla
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/248.m3u8
@@ -763,7 +763,7 @@ http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/391.m3u8
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/15.m3u8
 
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="7" tvg-name="And TV HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/and-tv-hd.png" group-title="Hindi Channel-(হিন্দি চ্যানেল)",And TV HD
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2597.m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9.m3u8
 
 #EXTINF:-1 x-managed="rxs" x-origin="api" tvg-id="221" tvg-name="T Sports 2" tvg-logo="https://otapp.store/uploads/tv_image/sm/t-sports-2.png" group-title="Sports-খেলা",T Sports 2
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/3013.m3u8
