@@ -238,7 +238,7 @@ http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/80.m3u8
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/319.m3u8
 #EXTINF:-1 tvg-id="470" tvg-name="Discovery" tvg-logo="https://amadertv.top:8880/images/48e3cf79657da58d23a465bfb123207b.png" group-title="Others Channel",Discovery
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1764282170:KeyName=prod_linear:Signature=niZhmJ55V2SvCK-svdWA-vrWUs5O_zhrxkjIK73MJ5-kacwG1ZDQaYbgPse7udiaIgDP4-ZItUNxGfkdDmLhDA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1764285648:KeyName=prod_linear:Signature=rKAuKyFars_YZg20iY6BuQa-jljFWYTi3xQ30j90B21dHA_MySEpGld27B0OjV70pZhA7ACQwlSaZkFdRLBeBw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_sd/playlist.m3u8
 #EXTINF:-1 tvg-id="23" tvg-name="Discovery Science" tvg-logo="https://amadertv.top:8880/images/48e3cf79657da58d23a465bfb123207b.png" group-title="Others Channel",Discovery Science
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/23.m3u8
@@ -604,7 +604,7 @@ https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1 tvg-id="127" tvg-name="Sony BBC Earth HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-bbc-earth-hd.png" group-title="Others Channel",SONY BBC EARTH HD VIP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1764282170:KeyName=prod_linear:Signature=niZhmJ55V2SvCK-svdWA-vrWUs5O_zhrxkjIK73MJ5-kacwG1ZDQaYbgPse7udiaIgDP4-ZItUNxGfkdDmLhDA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1764285648:KeyName=prod_linear:Signature=rKAuKyFars_YZg20iY6BuQa-jljFWYTi3xQ30j90B21dHA_MySEpGld27B0OjV70pZhA7ACQwlSaZkFdRLBeBw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonybbc_earth_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-language="English" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports-খেলা" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png",Sony Sports Ten 5 HD
@@ -618,7 +618,7 @@ https://fifabd.site/OPLLX4/play.php?id=301501|User-Agent=RANAPK
 
 #EXTINF:-1 group-title="Kids-(বাচ্চাদের চ্যানেল)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1764282170:KeyName=prod_linear:Signature=niZhmJ55V2SvCK-svdWA-vrWUs5O_zhrxkjIK73MJ5-kacwG1ZDQaYbgPse7udiaIgDP4-ZItUNxGfkdDmLhDA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1764285648:KeyName=prod_linear:Signature=rKAuKyFars_YZg20iY6BuQa-jljFWYTi3xQ30j90B21dHA_MySEpGld27B0OjV70pZhA7ACQwlSaZkFdRLBeBw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsb8UYeNzabPg-rzbPhTANWBRGGZoJx63lSw&s",DAZN 1 HD
@@ -626,7 +626,7 @@ https://x4-cdnnew.newkso.ru/x4-cdn/mono27/mono.m3u8
 
 #EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl6-ZPZ6UT3YhXilJF9fxtHzCqIt6mD71Dmg2_D-ZUsg&s=10", BFL Live 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20:Expires=1764159770:KeyName=prod_live_events:Signature=nhAJmPWdk84yI9b3JIXGESoWryHIsn7iWyxqvnocrw5_34iZQCHPsFD26T0eXfGo6OfDPxyoDXV00HfyY3hlBQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20:Expires=1764163248:KeyName=prod_live_events:Signature=EaYp6wKiFFgc_rI2XpYrmFB4ufKIfGyfwZ4y_AP-r5-5TS9-cawdk-XYsdz38PY9HdD1Gn3AGDY4HU-voVMCAg"}
 https://mprod-cdn.toffeelive.com/live/match-11/index.m3u8
 
 #EXTINF:-1 group-title="Event Channel" tvg-chno="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRREUeK_CZZWKW8XJVuuwKrBLmsqmHE6XDMdZzgOh8uJg&s", ICC Women's Cricket World Cup 2025
@@ -771,27 +771,27 @@ https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1 tvg-id="125" tvg-name="TLC HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/tlc-hindi.png" group-title="Others Channel",TLC HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1764282170:KeyName=prod_linear:Signature=niZhmJ55V2SvCK-svdWA-vrWUs5O_zhrxkjIK73MJ5-kacwG1ZDQaYbgPse7udiaIgDP4-ZItUNxGfkdDmLhDA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1764285648:KeyName=prod_linear:Signature=rKAuKyFars_YZg20iY6BuQa-jljFWYTi3xQ30j90B21dHA_MySEpGld27B0OjV70pZhA7ACQwlSaZkFdRLBeBw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/tlc_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="117" tvg-name="Discovery" tvg-logo="https://otapp.store/uploads/tv_image/sm/discovery.png" group-title="Others Channel",Discovery
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1764282170:KeyName=prod_linear:Signature=niZhmJ55V2SvCK-svdWA-vrWUs5O_zhrxkjIK73MJ5-kacwG1ZDQaYbgPse7udiaIgDP4-ZItUNxGfkdDmLhDA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1764285648:KeyName=prod_linear:Signature=rKAuKyFars_YZg20iY6BuQa-jljFWYTi3xQ30j90B21dHA_MySEpGld27B0OjV70pZhA7ACQwlSaZkFdRLBeBw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_sd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="70" tvg-name="Cartoon Network" tvg-logo="https://otapp.store/uploads/tv_image/sm/cartoon-network-hindi.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Cartoon Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1764282170:KeyName=prod_linear:Signature=niZhmJ55V2SvCK-svdWA-vrWUs5O_zhrxkjIK73MJ5-kacwG1ZDQaYbgPse7udiaIgDP4-ZItUNxGfkdDmLhDA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1764285648:KeyName=prod_linear:Signature=rKAuKyFars_YZg20iY6BuQa-jljFWYTi3xQ30j90B21dHA_MySEpGld27B0OjV70pZhA7ACQwlSaZkFdRLBeBw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_sd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="68" tvg-name="Pogo" tvg-logo="https://otapp.store/uploads/tv_image/sm/pogo-hindi.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Pogo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1764282170:KeyName=prod_linear:Signature=niZhmJ55V2SvCK-svdWA-vrWUs5O_zhrxkjIK73MJ5-kacwG1ZDQaYbgPse7udiaIgDP4-ZItUNxGfkdDmLhDA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1764285648:KeyName=prod_linear:Signature=rKAuKyFars_YZg20iY6BuQa-jljFWYTi3xQ30j90B21dHA_MySEpGld27B0OjV70pZhA7ACQwlSaZkFdRLBeBw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="66" tvg-name="Discovery Kids" tvg-logo="https://otapp.store/uploads/tv_image/sm/discovery-kids-2.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Discovery Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1764282170:KeyName=prod_linear:Signature=niZhmJ55V2SvCK-svdWA-vrWUs5O_zhrxkjIK73MJ5-kacwG1ZDQaYbgPse7udiaIgDP4-ZItUNxGfkdDmLhDA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1764285648:KeyName=prod_linear:Signature=rKAuKyFars_YZg20iY6BuQa-jljFWYTi3xQ30j90B21dHA_MySEpGld27B0OjV70pZhA7ACQwlSaZkFdRLBeBw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8
 
 #EXTINF:-1 tvg-id="215" tvg-name="TYC Sports Argentina" tvg-logo="https://otapp.store/uploads/tv_image/sm/tyc-sports-argentina.png" group-title="Sports-খেলা",TYC Sports Argentina
