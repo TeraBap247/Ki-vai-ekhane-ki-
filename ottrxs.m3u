@@ -777,6 +777,14 @@ http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/3013.ts
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/3011.ts
 
 #EXTM3U-LIVE-AUTO-START
+#EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/c6e4cebf69bcd29cbb122af3ca90d874.png" group-title="FOOTBALL LIVE EVENT",UEFA CHAMPIONS LEAGUE 1
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/64.m3u8
+#EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/c6e4cebf69bcd29cbb122af3ca90d874.png" group-title="FOOTBALL LIVE EVENT",UEFA CHAMPIONS LEAGUE 2
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9371.m3u8
+#EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/c6e4cebf69bcd29cbb122af3ca90d874.png" group-title="FOOTBALL LIVE EVENT",UEFA CHAMPIONS LEAGUE 3
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2514.m3u8
+#EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/c6e4cebf69bcd29cbb122af3ca90d874.png" group-title="FOOTBALL LIVE EVENT",UEFA CHAMPIONS LEAGUE 4
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9473.m3u8
 #EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/17f79b359bdb2098e2a3a95fd425795b.png" group-title="FOOTBALL LIVE EVENT",EPL 1 LIVE
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/1676.m3u8
 #EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/17f79b359bdb2098e2a3a95fd425795b.png" group-title="FOOTBALL LIVE EVENT",EPL 2 LIVE
@@ -819,12 +827,4 @@ http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/353.m3u8
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9515.m3u8
 #EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/c8a53db85d18566503cb40b440a40ba7.png" group-title="FOOTBALL LIVE EVENT",Serie A Live 2
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/354.m3u8
-#EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/c6e4cebf69bcd29cbb122af3ca90d874.png" group-title="FOOTBALL LIVE EVENT",UEFA CHAMPIONS LEAGUE 1
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/64.m3u8
-#EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/c6e4cebf69bcd29cbb122af3ca90d874.png" group-title="FOOTBALL LIVE EVENT",UEFA CHAMPIONS LEAGUE 2
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9371.m3u8
-#EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/c6e4cebf69bcd29cbb122af3ca90d874.png" group-title="FOOTBALL LIVE EVENT",UEFA CHAMPIONS LEAGUE 3
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2514.m3u8
-#EXTINF:-1 tvg-logo="https://amadertv.top:8880/images/c6e4cebf69bcd29cbb122af3ca90d874.png" group-title="FOOTBALL LIVE EVENT",UEFA CHAMPIONS LEAGUE 4
-http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9473.m3u8
 #EXTM3U-LIVE-AUTO-END
